@@ -18,6 +18,6 @@ However, there are certain limitations:
     
 ### Instructions:
 * Ensure that gcc is present by running the following commnad <b> gcc --version </b> in the terminal
-* Compile the source code by running<b>gcc project.c -o project.out</b> in the terminal
+* Compile the source code by running <b>gcc project.c -o project.out</b> in the terminal
 * Run the program by <b>./project</b> in the terminal
 </p>
