@@ -17,9 +17,8 @@ However, there are certain limitations:
   * File management
     
 ### Instructions:
-* Ensure that gcc is present by running the following commnad <b> gcc --version </b>
+* Ensure that gcc is present by running the following commnad <b> gcc --version </b> in the terminal
 * Clone the repository by running <b>git -clone</b>
-* Compile the source code by <b>gcc project.c -o project.out</b>
-* Run the program by <b>./project</b>
-<p>This is my First semester Programming Fundemantals course project</p>
+* Compile the source code by running<b>gcc project.c -o project.out</b> in the terminal
+* Run the program by <b>./project</b> in the terminal
 </p>
